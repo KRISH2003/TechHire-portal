@@ -3,13 +3,13 @@ Assignment : Job Portal
 TechHire: A full-stack job portal application where users can browse and apply for jobs, and employers can post and manage job listings.
 
 
-Live Demo
+Live Demo:
 
-view the project Live on : https://techhire-portal-frontend.onrender.com
-backend url : https://techhire-portal-backend.onrender.com
+- view the project Live on : https://techhire-portal-frontend.onrender.com
+- backend url : https://techhire-portal-backend.onrender.com
 
 
-Tech Stack
+Tech Stack:
 
 - Frontend: React.js, Tailwind CSS (or your styling choice)
 - Backend: Node.js, Express.js
@@ -17,7 +17,7 @@ Tech Stack
 - Deployment: Render (for both frontend and backend)
 
 
-Features
+Features:
 
 For Job Seekers:
 - Register/Login
@@ -36,15 +36,16 @@ For Employers:
 
 Test Credentials:
 
-Job Seeker
-Email: ktomar2203@gmail.com
-password: krish@22
-role: student
+Job Seeker:
+- Email: ktomar2203@gmail.com
+- password: krish@22
+- role: student
 
-Employer
-Email: sundar@gmail.com
-password: sundar@22
-role: recruiter
+Employer:
+- Email: sundar@gmail.com
+- password: sundar@22
+- role: recruiter
+
 
 Apart from this, you can create your own credentials using signUp button
 Then you add your own company and job listings from recruiter's credentials 
