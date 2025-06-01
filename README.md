@@ -6,7 +6,7 @@ TechHire: A full-stack job portal application where users can browse and apply f
 Live Demo:
 
 - view the project Live on : https://techhire-portal-frontend.onrender.com
-- backend url : https://techhire-portal-backend.onrender.com
+- backend url : https://techhire-portal-backend.onrender.com                    (if this link says Application loading... Then wait for 2-3 mins to get ready)
 
 
 Tech Stack:
